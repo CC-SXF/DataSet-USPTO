@@ -14,4 +14,5 @@
   1. Lowe, D. M. Extraction of chemical structures and reactions from the literature. Ph.D. thesis, University of Cambridge (2012).
   2. Lowe, D. Chemical reactions from US patents (1976–2016) (2017). https://figshare.com/articles/dataset/Chemical_reactions_from_US_patents_1976-Sep2016_/5104873.
   3. Jin, W., Coley, C., Barzilay, R. & Jaakkola, T. Predicting organic reaction outcomes with weisfeiler-lehman network. In Advances in Neural Information Processing Systems, 2607–2616 (2017).
-  4. 
+  4. Schwaller, P., Gaudin, T., Lanyi, D., Bekas, C. & Laino, T. Found in translation: predicting outcomes of complex organic chemistry reactions using neural sequence-to-sequence models. Chem. Sci. 9, 6091–6098 (2018).
+  5. 
