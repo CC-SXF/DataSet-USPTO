@@ -1,5 +1,5 @@
 # Data_USPTO
-				Train		Valid		Test		otal	
+				Train		Valid		Test		Total	
 				src	tgt	src	tgt	src	tgt
 	MIT_mixed		409035	409035	30000	30000	40000	40000	479035
 	MIT_mixed_augm		818070	818070	30000	30000	40000	40000
